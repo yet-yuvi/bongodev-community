@@ -32,4 +32,15 @@ export const profileCardData = [
       portfolio: 'https://parisa-reza.github.io/Parisa-Reza-Portfolio/',
     },
   },
+  {
+    image: 'https://media.licdn.com/dms/image/v2/D4E03AQF8ZPLn2OkrCQ/profile-displayphoto-crop_800_800/B4EZjYox2aHEAM-/0/1755981226507?e=1764806400&v=beta&t=kjWYBC_qARPER_ibe_xb0l12wRZa0aAodE_3QviYkEE',
+    name: 'Jubayar Ahamad',
+    about: 'I’m passionate about learning, solving problems, and creating applications that make an impact.',
+    background: 'bg-rose-200',
+    socials: {
+      linkedin: 'https://www.linkedin.com/in/jubayar-ahamad-find/',
+      github: 'https://github.com/yet-yuvi',
+      portfolio: 'https://jubayar-portfolio.netlify.app/',
+    },
+  },
 ];
